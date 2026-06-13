@@ -1,0 +1,10 @@
+title       = "elife"
+baseURL     = "https://elife-cli.tamnd.com/"
+description = "Browse eLife Sciences open-access journal"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/elife-cli"
